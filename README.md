@@ -1,6 +1,8 @@
 # Exercise-05a-FPS
 Exercise for MSCH-C220, 26 October 2021
 
+A demonstration of this exercise is available at [https://youtu.be/0sw4W00UjdY](https://youtu.be/0sw4W00UjdY)
+
 This exercise is a chance to play with Godot's 3D capability for the first time. We will be creating a simple first-person-controlled character, and then adding some Constructive Solid Geometry to our scene.
 
 Fork this repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-05a-FPS. *Edit the LICENSE and replace BL-MSCH-C220-F21 with your full name.* Commit your changes.
